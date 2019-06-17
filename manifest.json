@@ -1,0 +1,26 @@
+{
+  "name": "PrivacyPolicyKangPisman",
+  "short_name": "PPPisman",
+  "icons": [
+    {
+      "src": "./img/icons/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android-icon-192x192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#28c3d4",
+  "theme_color": "#28c3d4",
+  "orientation": "portrait",
+  "description": "Aplikasi Privacy Policy static HTML untuk Kang Pisman",
+  "related_applications": [{
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=com.govbandung.dlhk.kangpisman"
+  }]
+}
