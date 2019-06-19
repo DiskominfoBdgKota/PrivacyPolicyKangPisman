@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/PrivacyPolicyKangPismanApp/precache-manifest.6b39628538772ae2ee1110c1752890be.js"
+  "/PrivacyPolicyKangPismanApp/precache-manifest.a4b44204ee6f9b748706821c0a0801ea.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "privacypolicykangpisman"});
